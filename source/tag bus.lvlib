@@ -16,4 +16,5 @@
 	<Item Name="binary search.lvlib" Type="Library" URL="../dictionary/search/binary search.lvlib"/>
 	<Item Name="data dictionary.lvclass" Type="LVClass" URL="../dictionary/data dictionary.lvclass"/>
 	<Item Name="tag bus error generator.vi" Type="VI" URL="../tag bus error generator.vi"/>
+	<Item Name="tag collection.lvclass" Type="LVClass" URL="../tag collection/tag collection.lvclass"/>
 </Library>
