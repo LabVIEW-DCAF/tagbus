@@ -22,6 +22,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="tag bus tests.lvlib" Type="Library" URL="../tests/tag bus tests.lvlib"/>
 		<Item Name="tag bus.lvlib" Type="Library" URL="../tag bus.lvlib"/>
+		<Item Name="tag collection.lvclass" Type="LVClass" URL="../tag collection/tag collection.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>

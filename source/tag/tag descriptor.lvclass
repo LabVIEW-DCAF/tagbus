@@ -152,6 +152,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342713872</Property>
 		</Item>
+		<Item Name="find tag.vi" Type="VI" URL="../find tag.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#T!!!!"1!%!!!!#U!$!!6J&lt;G2F?!!U1(!!(A!!*AVU97=A9H6T,GRW&lt;'FC&amp;H2B:S"E:8.D=GFQ&gt;'^S,GRW9WRB=X-!!!.U97=!&amp;%"!!!(`````!!)(&gt;'&amp;H=S"J&lt;A"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!)!!Q-!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!#%!!!!!!"!!1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
+		</Item>
 	</Item>
 	<Item Name="polymorphs" Type="Folder">
 		<Item Name="read default" Type="Folder">
