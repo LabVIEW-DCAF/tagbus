@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-08-20 14:35:20" Creator="Daniel" Comments="" ID="bf3889720f7efa74a14d75b139b99e57">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-08-20 16:55:09" Creator="Daniel" Comments="" ID="2239cc26bdcd227259b04630268005ed">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
     <Library_Version>1.0.0.40</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\releases</Library_Output_Folder>
+    <Library_Output_Folder>..\..\releases\tag bus</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>BSD 2-clause</Library_License>
@@ -436,7 +436,7 @@
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B1597E4F380254C6342F09E6533A7728</GUID>
+      <GUID>6243A3BA39A14C61E2C45B10E1B8996D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -625,7 +625,7 @@
         <Path>dictionary\read full data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DDF9E69A7F010179700BFA047D85E816</GUID>
+      <GUID>9C162A344DCEDCB42145C346614923D2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -814,7 +814,7 @@
         <Path>table\transfer table data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>09B87EED6BCEA72747E961A1C3D1B443</GUID>
+      <GUID>648BD36E5E4F468D355BA0D08C4B19E0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1143,7 +1143,7 @@
         <Path>tag\list all types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>65F64B4AD5FFDFB5AC12C23CC5D8334F</GUID>
+      <GUID>E6AD565F272D838296F465CFA9329B2F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1290,7 +1290,7 @@
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BCEC6825B73CF6B8C94EBD2B43098339</GUID>
+      <GUID>1C1BBD9A9D5A9C722DC1B836F905B484</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
