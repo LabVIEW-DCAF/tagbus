@@ -23,4 +23,7 @@ Type mismatch detected
 <nierror code="538355">
 Dataset size mismatch
 </nierror>
+<nierror code="538356">
+Default value is not valid
+</nierror>
 </nidocument>
