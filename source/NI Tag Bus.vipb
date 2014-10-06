@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-10-06 18:33:32" Creator="Daniel" Comments="" ID="5d92b338523759cbe09ed322871cff13">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-10-06 18:38:08" Creator="Daniel" Comments="" ID="8e5b0355357650b49b5926d87d1f99e0">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
-    <Library_Version>1.1.0.1</Library_Version>
+    <Library_Version>1.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\tag bus</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://decibel.ni.com/content/docs/DOC-36995</URL>
-      <Release_Notes/>
+      <Release_Notes>added validation function, various minor bugfixes</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
