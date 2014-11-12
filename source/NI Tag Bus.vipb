@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-11-12 17:39:52" Creator="Daniel" Comments="" ID="b3df5da195995aa8f1d30cfd2d90eb11">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-11-12 17:45:16" Creator="Daniel" Comments="" ID="83feaa281e4a64ed874fe7ad2a7e507f">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
-    <Library_Version>1.1.0.2</Library_Version>
+    <Library_Version>1.2.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\tag bus</Library_Output_Folder>
@@ -32,7 +32,8 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://decibel.ni.com/content/docs/DOC-36995</URL>
-      <Release_Notes>added validation function, various minor bugfixes</Release_Notes>
+      <Release_Notes>Add serialization function for tag bus wire
+Add new constructor (dynamic dispatch) for tag</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -257,20 +258,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>construct tag.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>tag\construct tag.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>find tag by name.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -436,7 +423,21 @@
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F26B10097F7C1123E8BD8BDD3AA63F20</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>create tag.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>tag\create tag.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>4BE4C37903E8033D71C0F3C3676A8A00</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -611,7 +612,7 @@
         <Path>dictionary\locate tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E8104EC1F6AD46BC8E79B28D98DA898</GUID>
+      <GUID>04FB0D65C350EF6523EAF5D316203A7E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -800,7 +801,7 @@
         <Path>table\transfer table data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DF284BACDF63731C5C6DCC71953E95BE</GUID>
+      <GUID>2AAAA5E456B4D1A99B6D8DD51A7569A9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -821,20 +822,6 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>tag</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>construct tag.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>tag\construct tag.vi</Path>
-        <VI_Title/>
-      </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
@@ -1129,7 +1116,21 @@
         <Path>tag\list all types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>55CAFC4414FEBBDB0153BABFDB44B191</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>create tag.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>1</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>tag\create tag.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>328E949C6AC5B1F55C0C9196BB465A24</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1276,7 +1277,7 @@
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ED4B64C7C58CA6B3864048FD319FEE48</GUID>
+      <GUID>CF9BA8F841FF6169BE81E5F374686DD0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
