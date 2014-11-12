@@ -228,6 +228,10 @@
 			<Item Name="write sequential U64s.vi" Type="VI" URL="../data polymorphs/write sequential/write sequential U64s.vi"/>
 		</Item>
 	</Item>
+	<Item Name="serialize" Type="Folder">
+		<Item Name="deserialize.vi" Type="VI" URL="../deserialize.vi"/>
+		<Item Name="serialize.vi" Type="VI" URL="../serialize.vi"/>
+	</Item>
 	<Item Name="transfers" Type="Folder">
 		<Item Name="transfer table data.vi" Type="VI" URL="../transfer table data.vi"/>
 	</Item>

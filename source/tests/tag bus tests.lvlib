@@ -10,7 +10,9 @@
 		<Item Name="lookup speed test.vi" Type="VI" URL="../lookup speed test.vi"/>
 		<Item Name="test insert speed.vi" Type="VI" URL="../test insert speed.vi"/>
 	</Item>
-	<Item Name="table" Type="Folder"/>
+	<Item Name="table" Type="Folder">
+		<Item Name="serialization.vi" Type="VI" URL="../serialization.vi"/>
+	</Item>
 	<Item Name="tag desc" Type="Folder">
 		<Item Name="default value test.vi" Type="VI" URL="../default value test.vi"/>
 		<Item Name="serialize.vi" Type="VI" URL="../serialize.vi"/>
