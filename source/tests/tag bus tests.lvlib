@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="collection" Type="Folder">
+		<Item Name="test collection.vi" Type="VI" URL="../test collection.vi"/>
+	</Item>
 	<Item Name="dictionary" Type="Folder">
 		<Item Name="actual add tag speed.vi" Type="VI" URL="../actual add tag speed.vi"/>
 		<Item Name="create dictionary test.vi" Type="VI" URL="../create dictionary test.vi"/>
