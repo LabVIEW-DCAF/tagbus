@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-11-12 17:45:16" Creator="Daniel" Comments="" ID="83feaa281e4a64ed874fe7ad2a7e507f">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-11-12 18:26:49" Creator="Daniel" Comments="" ID="f0f30d80e2f0335f4807a5ff169ea702">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
-    <Library_Version>1.2.0.1</Library_Version>
+    <Library_Version>1.2.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\tag bus</Library_Output_Folder>
@@ -33,7 +33,8 @@
       <Packager>NI Systems Engineering</Packager>
       <URL>https://decibel.ni.com/content/docs/DOC-36995</URL>
       <Release_Notes>Add serialization function for tag bus wire
-Add new constructor (dynamic dispatch) for tag</Release_Notes>
+Add new constructor (dynamic dispatch) for tag
+Added binary search to collection for faster lookup</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -437,7 +438,7 @@ Add new constructor (dynamic dispatch) for tag</Release_Notes>
         <Path>tag\create tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4BE4C37903E8033D71C0F3C3676A8A00</GUID>
+      <GUID>A52636F752325A512232AD51193D43E1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -612,7 +613,7 @@ Add new constructor (dynamic dispatch) for tag</Release_Notes>
         <Path>dictionary\locate tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04FB0D65C350EF6523EAF5D316203A7E</GUID>
+      <GUID>10CC44C93274AD5F39A7A281999E575A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -801,7 +802,7 @@ Add new constructor (dynamic dispatch) for tag</Release_Notes>
         <Path>table\transfer table data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2AAAA5E456B4D1A99B6D8DD51A7569A9</GUID>
+      <GUID>E7408A810C8F7D43FFE9115D56685B19</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1130,7 +1131,7 @@ Add new constructor (dynamic dispatch) for tag</Release_Notes>
         <Path>tag\create tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>328E949C6AC5B1F55C0C9196BB465A24</GUID>
+      <GUID>89B6F4B4E4955C1262E6675800069E7E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1277,7 +1278,7 @@ Add new constructor (dynamic dispatch) for tag</Release_Notes>
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CF9BA8F841FF6169BE81E5F374686DD0</GUID>
+      <GUID>A079A7C4AE24E34614832FD25AA5900C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
