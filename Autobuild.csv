@@ -1,3 +1,3 @@
-vi	build tools\uninstall tag bus.vi
+vi	build tools\BUILD_uninstall tag bus.vi
 vip	source\NI Tag Bus.vipb
-vi	build tools\post build add to repo.vi
+vi	build tools\BUILD_post build add to repo tag bus.vi
