@@ -1,2 +1,3 @@
 vi	build tools\uninstall tag bus.vi
 vip	source\NI Tag Bus.vipb
+vi	build tools\post build add to repo.vi
