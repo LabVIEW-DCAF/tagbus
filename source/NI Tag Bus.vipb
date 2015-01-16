@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2014-11-12 18:26:49" Creator="Daniel" Comments="" ID="f0f30d80e2f0335f4807a5ff169ea702">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2015-01-16 11:16:33" Creator="Daniel" Comments="" ID="96f7cecefb035e9ddc77587090391c31">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
     <Library_Version>1.2.0.2</Library_Version>
@@ -114,6 +114,11 @@ Added binary search to collection for faster lookup</Release_Notes>
         <Path>.</Path>
         <Password/>
         <Locked_Only>true</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>buffer exchange/tag bus buffer exchange.lvlib</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
       </Password_Overrides>
       <Namespace_Overrides>
         <Path>.</Path>
@@ -438,7 +443,7 @@ Added binary search to collection for faster lookup</Release_Notes>
         <Path>tag\create tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A52636F752325A512232AD51193D43E1</GUID>
+      <GUID>B62B74559E336A8C9905A3A796B6BADE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -613,7 +618,7 @@ Added binary search to collection for faster lookup</Release_Notes>
         <Path>dictionary\locate tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>10CC44C93274AD5F39A7A281999E575A</GUID>
+      <GUID>EBE793E039F24BA3E8DCBAD581F906E9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -802,7 +807,7 @@ Added binary search to collection for faster lookup</Release_Notes>
         <Path>table\transfer table data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E7408A810C8F7D43FFE9115D56685B19</GUID>
+      <GUID>BEA56744E4A847DA26FA2B3A709F11E8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1131,7 +1136,7 @@ Added binary search to collection for faster lookup</Release_Notes>
         <Path>tag\create tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>89B6F4B4E4955C1262E6675800069E7E</GUID>
+      <GUID>D1FE8FE8002F7DBF9645F8BEDE402C48</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1278,7 +1283,7 @@ Added binary search to collection for faster lookup</Release_Notes>
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A079A7C4AE24E34614832FD25AA5900C</GUID>
+      <GUID>5E83E6F91C072502DD1A3714F5F122DB</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
