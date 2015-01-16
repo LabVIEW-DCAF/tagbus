@@ -26,4 +26,7 @@ Dataset size mismatch
 <nierror code="538356">
 Default value is not valid
 </nierror>
+<nierror code="538357">
+You must create 1 or more buffers
+</nierror>
 </nidocument>
