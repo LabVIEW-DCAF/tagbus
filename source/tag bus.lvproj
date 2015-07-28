@@ -44,6 +44,7 @@
 			<Item Name="replace classes.vi" Type="VI" URL="../../dev/replace classes.vi"/>
 			<Item Name="sort polymorphs.vi" Type="VI" URL="../../dev/sort polymorphs.vi"/>
 		</Item>
+		<Item Name="tag collection" Type="Folder"/>
 		<Item Name="create polys.vi" Type="VI" URL="../../dev/genericizer/create polys.vi"/>
 		<Item Name="data bus events.lvlib" Type="Library" URL="../events/data bus events.lvlib"/>
 		<Item Name="tag bus buffer exchange.lvlib" Type="Library" URL="../buffer exchange/tag bus buffer exchange.lvlib"/>
