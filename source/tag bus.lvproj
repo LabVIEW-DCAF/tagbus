@@ -37,6 +37,7 @@
 			<Item Name="case duplicator.vi" Type="VI" URL="../../dev/case duplicator.vi"/>
 			<Item Name="change bundler.vi" Type="VI" URL="../../dev/change bundler.vi"/>
 			<Item Name="change type for single diagram.vi" Type="VI" URL="../../dev/change type for single diagram.vi"/>
+			<Item Name="create polys.vi" Type="VI" URL="../../dev/genericizer/create polys.vi"/>
 			<Item Name="inliner.vi" Type="VI" URL="../../dev/inliner.vi"/>
 			<Item Name="lvdatainterface.c" Type="Document" URL="../../dev/lvdatainterface.c"/>
 			<Item Name="lvdatainterface.h" Type="Document" URL="../../dev/lvdatainterface.h"/>
@@ -45,7 +46,6 @@
 			<Item Name="sort polymorphs.vi" Type="VI" URL="../../dev/sort polymorphs.vi"/>
 		</Item>
 		<Item Name="tag collection" Type="Folder"/>
-		<Item Name="create polys.vi" Type="VI" URL="../../dev/genericizer/create polys.vi"/>
 		<Item Name="data bus events.lvlib" Type="Library" URL="../events/data bus events.lvlib"/>
 		<Item Name="tag bus buffer exchange.lvlib" Type="Library" URL="../buffer exchange/tag bus buffer exchange.lvlib"/>
 		<Item Name="tag bus tests.lvlib" Type="Library" URL="../tests/tag bus tests.lvlib"/>
