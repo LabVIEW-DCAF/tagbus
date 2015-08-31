@@ -13,7 +13,8 @@
 	<Item Name="tag descriptor.lvclass" Type="LVClass" URL="../tag/tag descriptor.lvclass"/>
 	<Item Name="dictionary table pair.ctl" Type="VI" URL="../dictionary table pair.ctl"/>
 	<Item Name="data table.lvlib" Type="Library" URL="../table/data table.lvlib"/>
+	<Item Name="binary search.lvlib" Type="Library" URL="../dictionary/search/binary search.lvlib"/>
+	<Item Name="data dictionary.lvclass" Type="LVClass" URL="../dictionary/data dictionary.lvclass"/>
 	<Item Name="tag bus error generator.vi" Type="VI" URL="../tag bus error generator.vi"/>
 	<Item Name="tag collection.lvclass" Type="LVClass" URL="../tag collection/tag collection.lvclass"/>
-	<Item Name="data dictionary.lvclass" Type="LVClass" URL="../dictionary/data dictionary.lvclass"/>
 </Library>
