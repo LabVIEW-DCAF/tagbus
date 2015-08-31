@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2015-07-29 16:25:48" Creator="Daniel" Comments="" ID="d801ac121cdbc36b6c5a275703e8cf98">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2015-07-25 02:14:29" Creator="Daniel" Comments="" ID="456280921b63b497a7a4edac789ad601">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
     <Library_Version>1.9.0.3</Library_Version>
@@ -305,6 +305,20 @@ added streams and events</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>locate tag.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>3</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>dictionary\locate tag.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>get default data table.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -512,21 +526,7 @@ added streams and events</Release_Notes>
         <Path>events</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>find tag in dictionary.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>dictionary\find tag in dictionary.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>42E72B1A54A071A996860E6963D4D0B6</GUID>
+      <GUID>BCC31FEB588251E70DE7CB69B3DF107D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -662,18 +662,18 @@ added streams and events</Release_Notes>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>find tag in dictionary.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>locate tag.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>2</Row>
-          <Column>1</Column>
+          <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>dictionary\find tag in dictionary.vi</Path>
+        <Path>dictionary\locate tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC7F9A79FEA673D459754AE332F9A9D2</GUID>
+      <GUID>C78000E8CF8804EBC9DA4CB4AAB424DA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -862,7 +862,7 @@ added streams and events</Release_Notes>
         <Path>table\transfer table data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E107FDE4E6938EBDED4676DB36FF592B</GUID>
+      <GUID>3A29B96898583A8C3608A21A4819C108</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1191,7 +1191,7 @@ added streams and events</Release_Notes>
         <Path>tag\create tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9B0BBEB65536923B4F64FAE0B0700F79</GUID>
+      <GUID>5731C848F95D61EDCA33F81B0594A65B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1338,7 +1338,7 @@ added streams and events</Release_Notes>
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4BB20FBD4C61E57FC980846439847230</GUID>
+      <GUID>AF2833A34F52953D5DC520500EF7829C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1415,7 +1415,7 @@ added streams and events</Release_Notes>
         <Path>data stream\publisher\publish.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E46ABBA8E7EC758D3308C2759174528B</GUID>
+      <GUID>AFBA92DEEB8FEE63B57672B7AD506657</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1506,7 +1506,7 @@ added streams and events</Release_Notes>
         <Path>data stream\subscriber\write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3406EECB95EA81D0468BD23A344CB990</GUID>
+      <GUID>FF8E4565857A6FB29BC887AA6407A15B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1569,7 +1569,7 @@ added streams and events</Release_Notes>
         <Path>events\generate event.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D5A26F242031E349DA434089E3ED0770</GUID>
+      <GUID>4A81AEC1D3A7F7B908C8DB4BA1F68D6A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
