@@ -423,15 +423,6 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082655248</Property>
 	</Item>
-	<Item Name="read sorted dictionary.vi" Type="VI" URL="../read sorted dictionary.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,J!!!!%1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"1!$!!!51%!!!@````]!"!&gt;J&lt;G2J9W6T!!Z!-0````]&amp;&lt;G&amp;N:8-!%E"!!!(`````!!9&amp;&lt;G&amp;N:8-!#A"1!!)!"1!(!"J!1!!"`````Q!)$(2B:X-A9HEA&gt;(FQ:1!"-A$R!!!!!!!!!!-.&gt;'&amp;H)'*V=SZM&gt;GRJ9B:U97=A:'6T9X*J=(2P=CZM&gt;G.M98.T$52B&gt;'%A6(FQ:3ZD&gt;'Q!^U!7!"A'2'^V9GRF"F.J&lt;G&gt;M:1.*.D1$34-S!UER.A**/!.6.D1$64-S!V5R.A*6/!&gt;#&lt;W^M:7&amp;O"F.U=GFO:Q^"=H*B?3"P:C"%&lt;X6C&lt;'5018*S98EA&lt;W9A5WFO:WRF$%&amp;S=G&amp;Z)'^G)%EW.!R"=H*B?3"P:C"*-T)-18*S98EA&lt;W9A34%W#U&amp;S=G&amp;Z)'^G)%EY$%&amp;S=G&amp;Z)'^G)&amp;5W.!R"=H*B?3"P:C"6-T)-18*S98EA&lt;W9A64%W#U&amp;S=G&amp;Z)'^G)&amp;5Y%%&amp;S=G&amp;Z)'^G)%*P&lt;WRF97Y018*S98EA&lt;W9A5X2S;7ZH!!FE982B)(2Z='5!%E"!!!(`````!!I&amp;&gt;(FQ:8-!2%"Q!"Y!!#=.&gt;'&amp;H)'*V=SZM&gt;GRJ9B&gt;E982B)'2J9X2J&lt;WZB=HEO&lt;(:D&lt;'&amp;T=Q!4:'&amp;U93"E;7.U;7^O98*Z)'^V&gt;!!%!!!!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!%2!=!!?!!!H$82B:S"C&gt;8-O&lt;(:M;7)8:'&amp;U93"E;7.U;7^O98*Z,GRW9WRB=X-!%G2B&gt;'%A:'FD&gt;'FP&lt;G&amp;S?3"J&lt;A!!91$Q!!Q!!Q!*!!M!$!!.!!U!$1!.!!Y!$1!.!!]$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!%!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
-	</Item>
 	<Item Name="search for tag.vi" Type="VI" URL="../search for tag.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'0!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!N!!Q!&amp;;7ZE:8A!2%"Q!"Y!!#=.&gt;'&amp;H)'*V=SZM&gt;GRJ9B&gt;E982B)'2J9X2J&lt;WZB=HEO&lt;(:D&lt;'&amp;T=Q!4:'&amp;U93"E;7.U;7^O98*Z)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!0%"Q!"Y!!#9.&gt;'&amp;H)'*V=SZM&gt;GRJ9B:U97=A:'6T9X*J=(2P=CZM&gt;G.M98.T!!!+=XFT&gt;'6N)(2B:Q!!2%"Q!"Y!!#=.&gt;'&amp;H)'*V=SZM&gt;GRJ9B&gt;E982B)'2J9X2J&lt;WZB=HEO&lt;(:D&lt;'&amp;T=Q!3:'&amp;U93"E;7.U;7^O98*Z)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!1!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
