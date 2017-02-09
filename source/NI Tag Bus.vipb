@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2015-01-16 11:19:33" Creator="Daniel" Comments="" ID="cb3af984b89ded3236bccb8269eb875a">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2017-02-09 16:41:09" Creator="Daniel" Comments="" ID="338b78b15ce738cdcfdd89e50f056eb1">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
     <Library_Version>1.3.0.2</Library_Version>
@@ -31,7 +31,7 @@
       <Description/>
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
-      <URL>https://decibel.ni.com/content/docs/DOC-36995</URL>
+      <URL>http://forums.ni.com/t5/Distributed-Control-Automation/LabVIEW-Tag-Bus-Library/gpm-p/3581721</URL>
       <Release_Notes>Add RT FIFO-based api for exchanging buffers between loops</Release_Notes>
     </Description>
     <Destinations>
@@ -483,7 +483,7 @@
         <Path>buffer exchange\exchange data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FB24B5D51295B0F64DD1553B797C5B2E</GUID>
+      <GUID>1B1522BFFADECE852DB7983A551E358E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -658,7 +658,7 @@
         <Path>dictionary\locate tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>192679D76CEA70ED4DE571C1F4049C65</GUID>
+      <GUID>7DB464281661C3A9A75D76298CC2F3EC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -847,7 +847,7 @@
         <Path>table\transfer table data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>03FD2278B369D1C28C3D643432BD31E8</GUID>
+      <GUID>7C98F24A0955C8CFF11476929AF51A0D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1176,7 +1176,7 @@
         <Path>tag\create tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>779424C39011F2BBA94148C73A93E102</GUID>
+      <GUID>CDDAB8F5A682FBDDAF4794B7ADB19F6A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1323,7 +1323,7 @@
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>76A1572641C3670DD9A0D8CB7B46D008</GUID>
+      <GUID>3EA2777ADDB7F3C2AA028DCD7ABA44DB</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
