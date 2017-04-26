@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2017-04-26 17:25:17" Creator="Daniel" Comments="" ID="7776d4297ed2a735797bcc2352afd828">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 17:32:24" Modified_Date="2017-04-26 17:57:18" Creator="Daniel" Comments="" ID="dd517e2131c998ba1bd6f203360b1cf2">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tag_bus</Package_File_Name>
-    <Library_Version>1.4.0.2</Library_Version>
+    <Library_Version>1.4.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\tag bus</Library_Output_Folder>
@@ -484,7 +484,7 @@ Updated to LabVIEW 2014 or later</Release_Notes>
         <Path>buffer exchange\exchange data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>017EF9CAFC390361FF91C1D773E10773</GUID>
+      <GUID>A52AD9DD69213FF95CD3DB941EDB4E43</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -659,7 +659,7 @@ Updated to LabVIEW 2014 or later</Release_Notes>
         <Path>dictionary\locate tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EF08D299A355502728FA1165A5058401</GUID>
+      <GUID>F2B3BE84C158DDFEEB65968F7D1D3487</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -848,7 +848,7 @@ Updated to LabVIEW 2014 or later</Release_Notes>
         <Path>table\transfer table data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CD9A9D490E4ED82868972436108AB14</GUID>
+      <GUID>ED746EF1092AD1F329FC51F5DE981DA6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1177,7 +1177,7 @@ Updated to LabVIEW 2014 or later</Release_Notes>
         <Path>tag\create tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2C35AE94E7279E1A3DEC0E7981F1B1D3</GUID>
+      <GUID>AABB9A42457A0D59F25EFE3468319818</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1324,7 +1324,7 @@ Updated to LabVIEW 2014 or later</Release_Notes>
         <Path>tag collection\get tag by name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C12F63AB07FA09D892BF30175E3E348B</GUID>
+      <GUID>8732EE9245961683E1C8A1EF8BA3F302</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
